@@ -1,0 +1,13 @@
+.header {
+    background-color: yellow;
+    height: 50px;
+}
+
+.home {
+    background-color: green;
+}
+
+.footer {
+    background-color: blue;
+    height: 50px;
+}
